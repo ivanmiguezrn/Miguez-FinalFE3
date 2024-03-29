@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 4rem;
+}
+
+.ulContainer {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.btn {
+    width: 100px;
+    padding: 5px;
+}
